@@ -1,4 +1,4 @@
-# math-modeling-flow 一键安装（Windows PowerShell）
+﻿# math-modeling-flow 一键安装（Windows PowerShell）
 # 1) 把本仓库捆绑的 skills/ 装入 ~/.claude/skills/
 # 2) 从原仓库现场拉取 2 个未声明许可的上游 skill（本仓库不再分发其代码）
 # 用法：在仓库根目录执行  powershell -ExecutionPolicy Bypass -File install.ps1
